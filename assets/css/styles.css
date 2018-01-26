@@ -1,0 +1,88 @@
+.navbar-nav {
+	margin-left: 820px;
+	
+}
+
+.containter {
+	background: url(../images/newback.JPG) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	height:900px;
+	max-width:100%;
+}
+
+#name {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 48px;
+}
+
+#slide {
+	height: 500px;
+	width: 500px;
+}
+
+.list {
+	padding-top: 70px;
+	font-family: 'Merriweather', serif;
+	font-size: 48px;
+	padding-left: 550px;
+}
+
+.list2{
+	padding-top: 70px;
+	font-family: 'Merriweather', serif;
+	font-size: 48px;
+	padding-left: 400px;
+}
+
+.container2{
+	background: url(../images/newback.JPG) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	height: 550px;
+	max-width: 100%;
+}
+
+#pict{
+	height: 50px;
+	width: 50px;
+}
+
+.bottom{
+	background-color: #B0B9D4;
+	height: 100px;
+	max-width: 100%;
+	padding-left: 350px;
+}
+
+.contact{
+	padding-top: 100px;
+	font-family: 'Merriweather', serif;
+	font-size: 48px;
+	padding-left: 400px;
+
+
+}
+
+.photo{
+	height: 250px;
+	width: 250px;
+	padding-left: 40px;
+	padding-top:36px;
+	padding-right: 20px;
+	
+}
+
+p{
+	padding-top: 145px;
+	font-family: 'Merriweather', serif;
+	font-size: 25px;
+	margin-right: 10px;
+	margin-left:10px;
+}
+
