@@ -50,16 +50,16 @@
 }
 
 #pict{
-	height: 100px;
-	width: 100px;
-	padding: 10px;
+	height: 80px;
+	width: 80px;
+	padding: 5px;
 }
 
 .bottom{
 	background-color: darkblue;
 	height: 100px;
 	max-width: 100%;
-	padding-left: 120px;
+	padding-left: 90px;
 }
 
 .contact{
@@ -86,5 +86,13 @@ p{
 	font-size: 25px;
 	margin-right: 10px;
 	margin-left:10px;
+}
+
+h1 {
+	padding-top: 100px;
+	text-align: center;
+	font-size: 128px;
+	font-family: 'Merriweather', serif;
+	font-style: bold;
 }
 
