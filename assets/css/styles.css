@@ -72,11 +72,12 @@
 }
 
 .photo{
-	height: 250px;
-	width: 250px;
+	height: 150px;
+	width: 150px;
 	padding-left: 40px;
 	padding-top:36px;
 	padding-right: 20px;
+	font-size: 36px;
 	
 }
 
