@@ -4,7 +4,7 @@
 }
 
 .containter {
-	background: url(../images/cloud.jpg) no-repeat center center fixed;
+	background: url(../images/bluewave.png) no-repeat center center fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -40,7 +40,7 @@
 }
 
 .container2{
-	background: url(../images/cloud.jpg) no-repeat center center fixed;
+	background: url(../images/bluewave.png) no-repeat center center fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -67,6 +67,7 @@
 	font-family: 'Merriweather', serif;
 	font-size: 48px;
 	padding-left: 400px;
+	color:rebeccapurple;
 
 
 }
@@ -86,6 +87,7 @@ p{
 	font-size: 25px;
 	margin-right: 10px;
 	margin-left:10px;
+	color:rebeccapurple;
 }
 
 h1 {
@@ -98,7 +100,7 @@ h1 {
 
 .title{
 	font-style: bold;
-	color:black;
+	color:rebeccapurple;
 }
 
 #heading {
