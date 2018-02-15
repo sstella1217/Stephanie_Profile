@@ -63,13 +63,22 @@
 }
 
 .contact{
-	padding-top: 100px;
+	padding-top: 50px;
 	font-family: 'Merriweather', serif;
 	font-size: 48px;
 	padding-left: 400px;
 	color:rebeccapurple;
 
 
+}
+
+.mail{
+	padding-top: 0px;
+	font-family: 'Merriweather', serif;
+	font-size: 48px;
+	padding-left: 200px;
+	color:rebeccapurple;
+	
 }
 
 .photo{
